@@ -9,3 +9,14 @@
 | TCShow/LiveIMTool | IM工具，用于直播间内消息压测 |
 | TCShow/TCAVIMDemo | 集成演示Demo，以及一些不常用的，不同场景，不便于在随心播中演示的功能，会在此处进行演示 |
 | TCShow/TCShow | 随心播工程目录 |
+
+| 箭头 | 含义 |
+| ----- | ----- |
+
+| Call | 调用 |
+
+| CallBack | 回调 |
+
+| Broadcast | 广播 |
+
+| Support | 支撑/支持 |
