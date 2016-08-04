@@ -12,11 +12,7 @@
 
 | 箭头 | 含义 |
 | ----- | ----- |
-
 | Call | 调用 |
-
 | CallBack | 回调 |
-
 | Broadcast | 广播 |
-
 | Support | 支撑/支持 |
