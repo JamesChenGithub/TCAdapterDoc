@@ -873,3 +873,4 @@ TCAdapter中进入直播间成功后会添加电话监听(addPhoneListener),App�
 另外请注意目前直播中使用的是AVChatRoom是有频率控制，具体参数设置请咨询IMSDK技术支持。
 
 Demo中支持立即显示与缓存后显示，详见编译宏kSupportIMMsgCache，用户可通过修改此值，并与LiveIMTool结合进行，可检查大消息量下自己App是否有卡顿效果。
+****
